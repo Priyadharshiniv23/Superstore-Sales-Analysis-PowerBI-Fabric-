@@ -1,12 +1,12 @@
-# 📊 Superstore Sales Analytics | Power BI + Microsoft Fabric + AI Insights
+#  Superstore Sales Analytics | Power BI + Microsoft Fabric + AI Insights
 
-## 📌 Overview
+##  Overview
 
 This project showcases an end-to-end Business Intelligence solution using **Power BI**, **Microsoft Fabric**, and **AI-powered insights** to analyze the Superstore dataset. The project transforms raw sales data into meaningful business insights through data visualization, cloud-based data management, and AI-driven analytics.
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Microsoft Power BI
 - Microsoft Fabric
@@ -17,9 +17,9 @@ This project showcases an end-to-end Business Intelligence solution using **Powe
 
 ---
 
-# 🚀 Project Phases
+#  Project Phases
 
-## 📊 Phase 1 – Power BI Dashboard Development
+##  Phase 1 – Power BI Dashboard Development
 
 - Imported and cleaned the Superstore dataset.
 - Performed data transformation using Power Query.
@@ -37,7 +37,7 @@ This project showcases an end-to-end Business Intelligence solution using **Powe
 
 ---
 
-## ☁️ Phase 2 – Microsoft Fabric Implementation
+##  Phase 2 – Microsoft Fabric Implementation
 
 - Created a Microsoft Fabric Workspace.
 - Built a Lakehouse and uploaded the Superstore dataset.
@@ -48,7 +48,7 @@ This project showcases an end-to-end Business Intelligence solution using **Powe
 
 ---
 
-## 🤖 Phase 3 – AI Insights
+##  Phase 3 – AI Insights
 
 Implemented Power BI AI features to generate intelligent business insights.
 
@@ -66,7 +66,7 @@ Implemented Power BI AI features to generate intelligent business insights.
 
 ---
 
-# 📈 Dashboard Metrics
+#  Dashboard Metrics
 
 | Metric | Value |
 |---------|--------|
@@ -77,7 +77,7 @@ Implemented Power BI AI features to generate intelligent business insights.
 
 ---
 
-# 💡 Key Insights
+#  Key Insights
 
 - Technology generated the highest sales and overall profit.
 - Consumer customers contributed the highest share of total sales.
@@ -88,7 +88,7 @@ Implemented Power BI AI features to generate intelligent business insights.
 
 ---
 
-# 📷 Dashboard Preview
+#  Dashboard Preview
 
 ### Power BI Dashboard
 
@@ -98,31 +98,3 @@ Implemented Power BI AI features to generate intelligent business insights.
 
 *(Add your AI Insights dashboard screenshot here.)*
 
----
-
-# 🎯 Skills Demonstrated
-
-- Data Cleaning
-- Data Transformation
-- Data Modeling
-- DAX Calculations
-- Microsoft Power BI
-- Microsoft Fabric
-- Business Intelligence
-- AI-Powered Analytics
-- Data Visualization
-- Data Storytelling
-
----
-
-# 📚 Learning Outcomes
-
-- Developed an end-to-end Business Intelligence solution.
-- Built interactive dashboards using Power BI.
-- Implemented cloud-based analytics using Microsoft Fabric.
-- Leveraged AI visuals to generate automated business insights.
-- Improved analytical thinking and data storytelling skills.
-
-
-
-⭐ If you found this project helpful, consider giving it a **Star** on GitHub!
