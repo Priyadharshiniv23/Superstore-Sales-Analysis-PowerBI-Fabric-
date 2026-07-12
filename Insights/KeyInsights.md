@@ -3,14 +3,23 @@ Key Insights - Superstore Sales Analysis
 Analysis
 ---
 1.Which category generated the highest sales? → Technology (~$0.84M)
+
 2.Which category earned the highest profit? → Technology (~$0.15M)
+
 3.Which region generated the highest profit? → West (~$108K)
+
 4.Which customer segment contributed the highest sales? → Consumer Segment
+
 5.Which month recorded the highest sales? → November (~$352K)
+
 6.Which month recorded the lowest sales? → February (~$59.8K)
+
 7.What is the total sales generated? → $2.30 Million
+
 8.What is the total profit earned? → $286.40 Thousand
+
 9.How many orders were analyzed? → Approximately 10,000 Orders
+
 10.What is the overall profit margin? → 12%
 
 Key Insights
