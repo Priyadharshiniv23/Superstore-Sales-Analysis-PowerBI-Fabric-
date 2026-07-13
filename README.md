@@ -90,9 +90,13 @@ Implemented Power BI AI features to generate intelligent business insights.
 
 #  Dashboard Preview
 
+### Power BI Dashboard
+
+* PowerBI Dashboard(Power BI Dashboard.png)*
+  
 ### Microsoft Fabric Dashboard
 
-* Fabic Dashboard(Page 1)*
+* Fabic Dashboard(Power BI Dashboard.png)*
 
 ### AI Insights Dashboard
 
