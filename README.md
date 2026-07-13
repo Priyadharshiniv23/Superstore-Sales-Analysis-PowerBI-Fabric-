@@ -92,7 +92,7 @@ Implemented Power BI AI features to generate intelligent business insights.
 
 ### Power BI Dashboard
 
-* PowerBI Dashboard(Power BI Dashboard.png)*
+![Power BI Dashboard](powerbi-dashboard.png)
   
 ### Microsoft Fabric Dashboard
 
